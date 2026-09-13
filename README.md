@@ -74,7 +74,7 @@ const kartavya = {
 I regularly practice **Data Structures & Algorithms** and work on coding problems to improve problem-solving, implementation, and competitive programming skills.
 
 - 🔗 **GitHub:** [kp-0705](https://github.com/kp-0705)
-- 🧩 **LeetCode:** Add your LeetCode profile link here
+- 🧩 **LeetCode:** [Add your LeetCode profile link here](https://leetcode.com/u/kpbhaii/)
 
 > My GitHub profile tracks my public development activity and projects; coding-platform submissions are maintained separately on the respective platform.
 
